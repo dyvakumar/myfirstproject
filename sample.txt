@@ -1,1 +1,10 @@
 new file in kumar branch
+git init
+git remote add origin "website address"
+git add documentname 
+git status-to check status of edge /master
+git branch-to create new branch
+git checkout branchname- to switch into different branches
+git merge -to update main branch
+git pull origin main
+clear 
