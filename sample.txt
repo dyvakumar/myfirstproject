@@ -7,4 +7,5 @@ git branch-to create new branch
 git checkout branchname- to switch into different branches
 git merge -to update main branch
 git pull origin main
-clear 
+git push origin master/kumar
+clear
